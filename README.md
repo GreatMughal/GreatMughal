@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreatMughal
+- 👋 Hi, I’m @AnasMughal
 - 👀 I’m interested in Full Stack web development 
 - 🌱 I’m currently learning React.js & Next.js 
 - 💞️ I’m looking to collaborate with my self
